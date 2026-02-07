@@ -13,5 +13,5 @@ This project consists of two main files:
 
 Visit the hosted website: 
 
-![Mintlify Homepage Clone Screenshot](./images/screenshots/screenshot.pngg)
+![Mintlify Homepage Clone Screenshot](Mintlify_Clone/images/screenshots/screenshot.png)
 
